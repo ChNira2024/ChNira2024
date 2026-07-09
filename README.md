@@ -1,6 +1,6 @@
 # Hi 👋, I'm Niranjan Charty
 
-### Java Full Stack Developer | Spring Boot | Microservices | React.js | AWS | Kubernetes | GenAI
+### Java Full Stack Developer | Spring Boot | Microservices | React.js | Docker | AWS | Kubernetes | GenAI
 
 I'm a Java Full Stack Developer with around **3 years of hands-on experience** in building scalable enterprise applications using Java, Spring Boot, Microservices, and modern cloud technologies. I enjoy designing clean backend architectures, developing RESTful APIs, and exploring AI-powered applications with Spring AI and Retrieval-Augmented Generation (RAG).
 
@@ -48,7 +48,7 @@ I'm a Java Full Stack Developer with around **3 years of hands-on experience** i
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/niranjana-charty-88922a104" target="_blank">
+<a href="https://linkedin.com/in/niranjan-charty-88922a104" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -76,17 +76,12 @@ I'm a Java Full Stack Developer with around **3 years of hands-on experience** i
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChNira2024&show_icons=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ChNira2024"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChNira2024&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ChNira2024&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChNira2024&layout=compact"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChNira2024&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
