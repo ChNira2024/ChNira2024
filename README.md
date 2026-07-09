@@ -1,17 +1,49 @@
-# Hi 👋, I'm **Niranjan Charty**
+# Hi 👋, I'm Niranjan Charty
 
 ### Java Full Stack Developer | Spring Boot | Microservices | React.js | AWS | Kubernetes | GenAI
 
-💻 Java Full Stack Developer with **around 3 years of experience** building scalable backend systems, REST APIs, cloud-native microservices, and AI-powered applications.
-
-* 🚀 Java • Spring Boot • Microservices • React.js
-* ☁️ AWS • Docker • Kubernetes
-* 🤖 Spring AI • Ollama • RAG • OpenAI
-* ⚡ Improved API performance by **30%** using Redis caching
-* 📍 Hyderabad, India
-* 💼 Open to **Java Backend | Full Stack | GenAI** roles
+I'm a Java Full Stack Developer with around **3 years of hands-on experience** in building scalable enterprise applications using Java, Spring Boot, Microservices, and modern cloud technologies. I enjoy designing clean backend architectures, developing RESTful APIs, and exploring AI-powered applications with Spring AI and Retrieval-Augmented Generation (RAG).
 
 ---
+
+## 🚀 About Me
+
+- 💼 Java Full Stack Developer with around **3 years of professional experience**
+- 🔹 Strong experience in **Java, Spring Boot, Microservices, React.js, and REST APIs**
+- 🔹 Built scalable backend applications deployed on **AWS** using **Docker** and **Kubernetes**
+- 🔹 Improved API response time by **30%** using **Redis caching**
+- 🔹 Working with **Spring AI, Ollama, OpenAI APIs, and Vector Databases** for intelligent document search and AI-powered applications
+- 🔹 Passionate about Cloud Computing, Distributed Systems, and GenAI
+- 📍 Hyderabad, Telangana, India
+- 📧 **Email:** niranjanacharty2013@gmail.com
+- 💼 **Open to:** Java Backend | Java Full Stack | GenAI Engineer roles
+- 🚀 Available for Immediate Joining
+
+---
+
+# 🛠 Tech Stack
+## 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,typescript,javascript,html,css,bootstrap,maven,git,github" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,jenkins,terraform" />
+</p>
+
+---
+
+## 🗄️ Database & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
+</p>
+
 
 ## 🌐 Connect with Me
 
@@ -27,20 +59,6 @@
 <a href="https://github.com/ChNira2024">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,angular,typescript,javascript,html,css,bootstrap,maven,git,github" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,mysql,redis,kafka,jenkins,idea,vscode" />
-
 </p>
 
 ---
