@@ -33,7 +33,7 @@ I'm a Java Full Stack Developer with around **3 years of hands-on experience** i
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,jenkins,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,gitlab,jenkins,terraform" />
 </p>
 
 ---
