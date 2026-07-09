@@ -1,7 +1,7 @@
-👋 Hi, I'm Niranjana Charty
+👋 Hi, I'm Niranjan Charty
 
 💻 Java Full Stack Developer with ~3 years of experience
-🚀 Spring Boot | Microservices | AWS | Kubernetes | GenAI & RAG Pipelines
+🚀 Java | Spring Boot | Microservices | React.js | Docker | AWS | Kubernetes | GenAI & RAG Pipelines
 🤖 Building AI-powered solutions using Spring AI, Ollama & Vector Databases
 ☁️ Cloud-native development with AWS, Docker & Kubernetes
 ⚡ Boosted API performance by 30% with Redis caching
